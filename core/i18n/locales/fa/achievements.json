@@ -1,0 +1,33 @@
+{
+  "title": "دستاوردها",
+  "description": "پیشرفت خود را دنبال کنید و دستاوردهای مختلف را کسب کنید",
+  "unlocked": "باز شده",
+  "locked": "قفل شده",
+  "progress": "پیشرفت: {{current}}/{{total}}",
+  "earnedOn": "کسب‌شده در {{date}}",
+  "categories": {
+    "all": "همه",
+    "kana": "کانا",
+    "kanji": "کانجی",
+    "vocabulary": "واژگان",
+    "general": "عمومی",
+    "special": "ویژه"
+  },
+  "rarity": {
+    "common": "معمولی",
+    "rare": "کمیاب",
+    "epic": "حماسی",
+    "legendary": "افسانه‌ای"
+  },
+  "notifications": {
+    "achievementUnlocked": "دستاورد جدید باز شد!",
+    "congratulations": "تبریک!",
+    "youEarned": "شما کسب کردید:"
+  },
+  "stats": {
+    "totalAchievements": "مجموع دستاوردها",
+    "unlockedAchievements": "دستاوردهای بازشده",
+    "completionRate": "نرخ تکمیل",
+    "recentAchievements": "دستاوردهای اخیر"
+  }
+}
